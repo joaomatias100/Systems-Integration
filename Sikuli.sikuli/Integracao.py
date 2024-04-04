@@ -1,0 +1,5 @@
+type(Key.WIN)
+sleep(1)
+type("brave" + Key.ENTER)
+sleep(1)
+type("side.utad.pt" + Key.ENTER)

@@ -1,0 +1,11 @@
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\bin\Debug\HTTPIntegration.exe.config
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\bin\Debug\HTTPIntegration.exe
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\bin\Debug\HTTPIntegration.pdb
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\obj\Debug\HTTPIntegration.csproj.AssemblyReference.cache
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\obj\Debug\HTTPIntegration.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\obj\Debug\HTTPIntegration.csproj.CoreCompileInputs.cache
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\obj\Debug\HTTPIntegration.exe
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\obj\Debug\HTTPIntegration.pdb
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\João Matias\Desktop\2º Semestre\Integracao\HTTPIntegration\HTTPIntegration\obj\Debug\HTTPIntegration.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "algcN4XKBGrUlYpnPQ6kfs1hP8BRozBFtscWVyoao3s=",
+  "Source": "RestfulAPI",
+  "BasePath": "_content/RestfulAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
